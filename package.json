@@ -1,6 +1,6 @@
 {
   "name": "fjad-my-storybook-components",
-  "version": "0.1.0",
+  "version": "0.0.0-dev",
   "private": false,
   "license": "MIT",
   "typings": "dist/index.d.ts",
